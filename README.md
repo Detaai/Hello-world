@@ -14,7 +14,7 @@ The purpose of creating this software is to verify that my development environme
 
 
 
-[Software Demo Video]( )
+[Software Demo Video]( https://drive.google.com/file/d/1dzYcS8oQY-4dRN80YOpy3ZO6fuxcgrGw/view?usp=sharing )
 
 
 
